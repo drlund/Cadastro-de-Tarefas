@@ -1,10 +1,10 @@
 # template-admin-faces
 
-<p> Template utilizado no curso web disponibilizado gratuitamente atrav√©s do Youtube</p>
+<p> UtilizaÁ„o do template AdminFaces obtido gratuitamente no link abaixo.</p>
 
 ## Objetivo
 
-Aprenda a desenvolver um crud RESPONSIVO, utilizando: Java, Bootstrap, Primefaces, AdminLTE, JSF, Hibernate e MySql.
+Desenvolver um crud RESPONSIVO, utilizando: Java, Bootstrap, Primefaces, AdminLTE, JSF, Hibernate e MySql.
 
 ## Tecnologias
 
@@ -20,5 +20,5 @@ Aprenda a desenvolver um crud RESPONSIVO, utilizando: Java, Bootstrap, Primeface
 
 ## Link
 
-[Acesso v√≠deos aulas](https://www.youtube.com/watch?v=P0uVDm9yZ7o&list=PL2OfKBFhHB0JrRd1YErlWh5epD6zDrCXU)
+[Acesso ao AdminLTE] (https://adminfaces.github.io/site/)
 

@@ -2,12 +2,20 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>br.com.karanalpe</groupId>
-	<artifactId>template-admin-faces</artifactId>
+	<groupId>br.com.bb</groupId>
+	<artifactId>crud-adminfaces</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>war</packaging>
 
 	<dependencies>
+	
+		<!-- Dependência informada no site da aplicação de exemplo: "javax.annotation-api" -->
+		<dependency>
+          <groupId>javax.annotation</groupId>
+          <artifactId>javax.annotation-api</artifactId>
+          <version>1.3.1</version>
+		</dependency>
+		
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
@@ -105,7 +113,7 @@
 	</dependencies>
 	
 	<build>
-		<finalName>template-admin-faces</finalName>
+		<finalName>crud-adminfaces</finalName>
 	</build>
 	
 	<properties>
